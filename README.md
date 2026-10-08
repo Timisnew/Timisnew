@@ -2,7 +2,7 @@
 
 # Привет, я Даниил 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Python+Developer;2nd-year+College+Student;Algorithmic+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Ярик+Миронов+Лох;2nd-year+College+Student;Algorithmic+Problem+Solver)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://vk.ru/vetdaniil">
